@@ -24,7 +24,7 @@ A clean and minimal e-commerce front-end showcasing a curated collection of tren
 ---
 
 ## 📸 Preview
-![Shopping Website Preview](preview.png)
+![Shopping Website Preview](images/preview.png)
 
 > _"Style is just one click away!"_
 
